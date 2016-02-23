@@ -97,3 +97,7 @@ Slides, examples, and exercises for LaunchCode's Hello, World! course.
 
 	* [Starter code for pong](https://jsfiddle.net/dsshook/uh70vax8/)
 	* [Completed pong](http://jsfiddle.net/dsshook/0Lj82xqm/)
+
+***
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
