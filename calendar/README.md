@@ -1,14 +1,13 @@
 #Course Calendar
 
-### Overview
-This class will start with the most basic question: what is code? As we'll see, this is actually a trickier question to answer than you might expect. From there, you'll have the foundation you need to start 
+Before coming to each class, please complete the Prep Work for that class. This will be the way you learn most of the skills in this course, and will make sure you get the most out of coming to class. 
 
-Class # | Date | Before Class | During Class | Topics/Skills
+Class # | Date | Before Class | During Class | Overview
 :------:|:----:|:------------:|:------------:|-----------------------|
-Class 1 | TBD | Get excited! | [In Class](./materials/class1) | What is code? |
-Class 2 | TBD | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | Solving problems with pseudocode |
-Class 3 | TBD | [Prep Work](./materials/class3-prep)| [In Class](./materials/class3) | From pseudocode to actual code (Javascript, to be precise!)
-Class 4 | TBD | [Prep Work](./materials/class4-prep)| [In Class](./materials/class3) | Let's do some cool stuff!
+Class 1 | TBD | Get excited! | [In Class](./materials/class1) | This class will start with the most basic question: what is code? As we'll see, this is actually a trickier question to answer than you might expect. We'll introduce you to the world of computer science and coding, and then talk about what it means to think like a computer programmer. By the end of this class, you will have an understanding of algorithms, and how we can use them to solve complex problems. This will be the foundation we use to start writing pseudocode next class. |
+Class 2 | TBD | [Prep Work](./materials/class2-prep) | [In Class](./materials/class2) | Now that we have a foundation, it's time to start solving some problems. To do that, we'll introduce you to pseudocode, which allows us to think like a coder, without getting bogged down with tricky syntax. In fact, this is a really important skill for programmers of all levels; most of the best coders will write out solutions to their problem in pseudocode before trying to write it in code. Using pseudocode, you will learn some of the most important concepts in programming, such as variables, conditionals, and loops. |
+Class 3 | TBD | [Prep Work](./materials/class3-prep)| [In Class](./materials/class3) | Finally, it's time to get our hands dirty with some real code! We'll transition from pseudocode to an actual programming language - in this case, a language called Javascript. To do that, we'll walk through how the concepts we learned in pseudocode translate to code (turns out, it's not so different!). Applying our new skills, we'll see how we can start to do some interesting things. We'll write our first programs, and show you how you'll be able to use your newfound powers. 
+Class 4 | TBD | [Prep Work](./materials/class4-prep)| [In Class](./materials/class4) | Now that we've learned these new skills, what can we actually do with them? Let's do some cool stuff! In this class, we'll begin to pull back the curtain to show you some of the things you can already do with what you've learned so far. And, perhaps more importantly, we'll show you how you can continue to learn - after all, there's a wide world out there, and we've only just said "Hello!"
 
 ### Beyond Hello, World!
 
