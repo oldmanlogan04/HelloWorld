@@ -1,6 +1,7 @@
 #Course Calendar
 
-Before coming to each class, please complete the Prep Work for that class. This will be the way you learn most of the skills in this course, and will make sure you get the most out of coming to class. 
+Before coming to each class, please complete the Prep Work for that class. This will be the way you learn most of the skills in this course, and will make sure you get the most out of coming to class. The "In Class" pages will provide you with all of the resources you'll need during class. Happy learning!
+***
 
 Class # | Date | Before Class | During Class | Overview
 :------:|:----:|:------------:|:------------:|-----------------------|
