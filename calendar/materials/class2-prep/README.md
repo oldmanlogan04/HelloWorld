@@ -6,9 +6,9 @@ Before coming to [Class 2](../class2), please complete the following tasks:
 
 Task | Instructions | Link  | 
 --------------|-------------|-------------
-Watch | Watch part of the first lecture from Harvard's CS50 class, which reviews binary and algorithms. Feel free to stop at the 27 minute mark (past that is only CS50-specific details)| <a href="https://youtu.be/zFenJJtAEzE?t=338" target="_blank">CS50, Week 0</a>
+Watch | Watch part of the first lecture from Harvard's CS50 class, which reviews binary and algorithms. Start at 5:38, and feel free to stop at the 27 minute mark (past that is only CS50-specific details)| <a href="https://youtu.be/zFenJJtAEzE?t=338" target="_blank">CS50, Week 0</a>
 Watch | Watch this short from CS50 that explains what an algorithm is, and why this concept is so essential to programming. |  <a href="https://www.youtube.com/watch?v=HFLczUUHWNw&index=1&list=PLhQjrBD2T380dhmG9KMjsOQogweyjEeVQ" target="_blank">Algorithms</a> | 
-
+***
 ##### Pseudocode
 
 Task | Instructions | Link  | 
