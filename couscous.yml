@@ -21,9 +21,6 @@ menu:
             text: Calendar 
             # You can use relative urls
             relativeUrl: calendar/
-        announcements:
-            text: Announcements
-            relativeUrl: announcements/
         piazza:
             text: Piazza
             absoluteUrl: https://piazza.com/class/ilb1z53waix4h4
