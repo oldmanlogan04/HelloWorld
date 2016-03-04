@@ -11,4 +11,4 @@ Class 3 | TBD | [Prep Work](./materials/class3-prep)| [In Class](./materials/cla
 Class 4 | TBD | [Prep Work](./materials/class4-prep)| [In Class](./materials/class4) | Now that we've learned these new skills, what can we actually do with them? Let's do some cool stuff! In this class, we'll begin to pull back the curtain to show you some of the things you can already do with what you've learned so far. And, perhaps more importantly, we'll show you how you can continue to learn - after all, there's a wide world out there, and we've only just said "Hello!"
 ***
 ### Beyond Hello, World!
-
+*Coming Soon!*
