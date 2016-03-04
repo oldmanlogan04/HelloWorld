@@ -21,6 +21,9 @@ menu:
             text: Calendar 
             # You can use relative urls
             relativeUrl: calendar/
+				announcements:
+						text: Announcements
+						relativeUrl: announcements/
         piazza:
             text: Piazza
             absoluteUrl: http://piazza.com/link-to-pleasantville-piazza-page
