@@ -4,15 +4,15 @@ template:
     url: https://github.com/LaunchCodeEducation/Template-Light
 
 # Base URL of the published website
-baseUrl: http://education.launchcode.org/cs50x-pleasantville
+baseUrl: http://education.launchcode.org/HelloWorld
 
 
 # Used to link to the GitHub project
 github:
     user: LaunchCodeEducation 
-    repo: cs50x-pleasantville 
+    repo: HelloWorld
 
-title: LaunchCode's CS50x - Pleasantville 
+title: LaunchCode's Hello, World!
 
 # The left menu bar
 menu:
@@ -20,26 +20,8 @@ menu:
         calendar:
             text: Calendar 
             # You can use relative urls
-            relativeUrl: calendar/ 
-        howtotake:
-            text: How To Take This Class
-            relativeUrl: how-to-take-this-class/    
-        helpfulresources:
-            text: Helpful Resources
-            relativeUrl: helpful-resources/
-        ide:
-            text: CS50 IDE
-            absoluteUrl: http://cs50.io/
-            attributes: target="_blank"
-        vocareum:
-            text: Vocareum
-            absoluteUrl: http://labs.vocareum.com/main/
-            attributes: target="_blank"
+            relativeUrl: calendar/
         piazza:
             text: Piazza
             absoluteUrl: http://piazza.com/link-to-pleasantville-piazza-page
-            attributes: target="_blank"
-        studentguide:  
-            text: Student Guide
-            absoluteUrl: https://docs.google.com/document/d/link-to-pleasantville-student-guide
             attributes: target="_blank"
