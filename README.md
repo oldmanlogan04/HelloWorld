@@ -24,7 +24,7 @@ Coding is fun, but it can also be intimidating. Many people don't know how to st
 
 Come to the first class! We'll walk you through how to understand the rest of the curriculum. 
 
-When you're ready, you can look at the course calendar.
+When you're ready, you can look at the [Course Calendar](./calendar).
 
 
 ***
