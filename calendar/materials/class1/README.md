@@ -6,7 +6,7 @@
 2. For reference, you can also view the [slides here](slides.pdf).
 3. [Audio](https://soundcloud.com/launchcode-mentor-center/hello-world-spring-2016-class-1)
 
-Note: Slides, audio, and video have the video and audio segments removed due to copyright issues. Hence, I've linked those below.
+*Note*: Slides, audio, and video have the video and audio segments removed due to copyright issues. Hence, I've linked those below.
 
 ---
 
