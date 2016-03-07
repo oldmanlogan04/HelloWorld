@@ -4,7 +4,7 @@
 
 1. Rewatch the <a href="https://www.youtube.com/watch?v=j2kkwcZLsaA&feature=youtu.be" target="_blank">video from Class 1 here!</a>
 2. For reference, you can also view the [slides here](slides.pdf).
-3. [Audio](https://soundcloud.com/launchcode-mentor-center/hello-world-spring-2016-class-1)
+3. And in case you prefer to listen, you can find the <a href="https://soundcloud.com/launchcode-mentor-center/hello-world-spring-2016-class-1" target="_blank">audio here</a>
 
 *Note*: Slides, audio, and video have the video and audio segments removed due to copyright issues. Hence, I've linked those below.
 
