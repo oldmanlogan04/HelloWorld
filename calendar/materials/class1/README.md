@@ -1,7 +1,5 @@
 #Class 1
 
----
-
 ## Materials
 
 [Audio](https://soundcloud.com/launchcode-mentor-center/hello-world-spring-2016-class-1)
