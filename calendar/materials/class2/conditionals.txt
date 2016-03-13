@@ -1,0 +1,26 @@
+// conditionals
+
+if today is saturday
+	print "weekend!"
+	
+if today is sunday
+	print "weekend!"
+	
+if today is monday
+	print "weekday :("
+	
+	
+// an easier way to do the above, using else and else if statements
+if today is saturday
+	print "weekend"
+else if today is sunday
+	print "weekend"
+else
+	print 'weekday'
+	
+
+// odd/even - not that the modulo operator % gives the remainder after dividing
+if x % 2 is 0
+	print "x is even"
+else
+	print "x is odd"

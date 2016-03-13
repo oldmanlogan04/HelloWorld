@@ -1,0 +1,15 @@
+// how many quarters? - given a variable called change, print the most number of quarters that I can make using that amount
+
+numberOfQuarters = 0
+while change >= 25
+	numberOfQuarters = numberOfQuarters + 1
+	change = change - 25
+
+print numberOfQuarters
+
+// Let's look at an example where change = 77
+
+// first loop: 77 >= 25 is true, numberOfQuarters = 1, change = 52
+// second loop: 52 >= 25 is true, numberOfQuarters = 2, change = 27
+// third loop: 27 >= 25 is true, numberOfQuarters = 3, change = 2
+// fourth loop: 2 >= 25 is false

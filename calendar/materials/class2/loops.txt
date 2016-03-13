@@ -1,0 +1,23 @@
+// loops
+
+i = 0
+while i < 10
+	print "#"
+// infinite loop; never ends since the variable i used in the conditional check is never updated
+
+// this is correct
+i = 0
+while i < 10
+	print "#"
+	i = i+1
+
+
+// print integers from 1 to 100, two ways
+
+numberToPrint = 1
+while numberToPrint <= 100
+	print numberToPrint
+	numberToPrint = numberToPrint + 1
+
+for numberToPrint=1...100
+	print numberToPrint

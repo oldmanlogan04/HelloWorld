@@ -1,0 +1,32 @@
+// variables and data types
+
+// number 
+numberOfBurritos = 2
+numberOfTacos = 5
+
+// can use: + - / %
+numberOfMexicanMeals = numberOfBurritos + numberOfTacos
+
+// string
+launchCodeAddress = "4811 Delmar"
+launchCodeCity = "Saint Louis"
+
+// concatentation operation appends multiple strings together using +
+launchCodeMailingAddress = launchCodeAddress + ", " + launchCodeCity
+// result: "4811 Delmar, Saint Louis"
+
+// we can also use single quotes instead of doubl quotes
+launchCodeAddress = '4811 Delmar'
+
+// can't do the following; quotes are needed to signify a string
+launchCodeAddress = 4811 Delmar
+
+// booleans
+isWeekday = false
+
+// the ! ("bang" or "not") operator give you the opposite of a given boolean variable
+isWeekend = !isWeekday // the variable isWeekend is true
+
+// nonsense operations; variables of different data types shouldn't be mixed
+launchCodeAddres + numberOfBurritos
+numberOfBurritos / isWeekday

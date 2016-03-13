@@ -5,7 +5,6 @@
 Sketch out the following algorithms in pseudocode
 
 1. Write the following "story" in pseudocode:
-* Replicate the story that you created using pseudocode variables, in Javascript:
 * Alex has $100.
 * Alex buys a burrito for $8.
 * Joe repays Alex the $50 he lended him. Joe has $200 left over.

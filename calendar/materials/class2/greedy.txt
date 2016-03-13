@@ -1,0 +1,33 @@
+// class exercise: making change
+
+// we'll assume change is number of total cents, $1.77 is actually 177 cents
+
+// get rid of whole dollars
+change = change % 100
+
+// here's another way to get rid of whole dollars
+while change >= 100
+	change = change - 100
+	
+// now, change is < 100; get as many quarters as possible
+numberOfQuarters = 0
+while change >= 25
+	numberOfQuarters = numberOfQuarters + 1
+	change = change - 25
+
+// now change < 25, get as many dimes as possible
+numberOfDimes = 0
+while change >= 10
+	numberOfDimes = numberOfDimes + 1
+	change = change - 10
+	
+// now change < 10, get as many nickels as possible
+numberOfNickels = 0
+while change >= 5
+	numberOfNickels = numberOfNickels + 1
+	change = change - 5
+	
+// now change < 5
+numberOfPennies = change
+
+totalCoins = numberOfQuarters + numberOfDimes + numberOfNickels + numberOfPennies
