@@ -2,7 +2,7 @@
 
 ### Materials
 
-1. (Video coming soon...)
+1. Rewatch the <a href="https://youtu.be/P7pcld_sm-k" target="_blank">video from Class 2 here!</a>
 2. For reference, you can also view the [slides here](slides.pdf).
 3. And in case you prefer to listen, you can find the <a href="https://soundcloud.com/launchcode-mentor-center/hello-world-spring-2016-class-2" target="_blank">audio here</a>
 
