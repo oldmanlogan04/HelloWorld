@@ -21,6 +21,8 @@ Sketch out the following algorithms in pseudocode
 6. Write a loop that prints out all of the odd numbers between 4 and 40.
 7. *Challenge problem*: Write an algorithm that prints out the first 50 terms of the [Fibonacci Sequence](https://www.mathsisfun.com/numbers/fibonacci-sequence.html).
 
+Once you've finished, you can compare your work with the [official solutions](hw2-solutions.txt). Note that your may answer(s) may be slightly different than these and still be correct. You should focus on the logic of the answer, and ask if you have any doubts or concerns.
+
 ## Getting Started with Javascript
 
 We talked about Javascript (JS) briefly in class, and will spend the rest of our time working with this programming language. These exercises are self-guided, and will get a little bit of early practice with JS.

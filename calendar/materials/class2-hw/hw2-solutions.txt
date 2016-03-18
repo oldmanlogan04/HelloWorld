@@ -1,0 +1,82 @@
+// exercise 1
+
+alex = 100
+alex = alex - 8
+alex = alex + 50
+joe = 200
+molly = 20
+molly = molly - 10
+joe = joe - 10
+
+print alex
+print joe
+print molly
+
+sum = alex + joe + molly
+print sum
+
+// exercise 2
+if alex > 125
+	print "Alex can see Springsteen!"
+else
+	print "Alex can't go to the Springsteen show:("
+	
+// exercise 3 - assume variables x and y are already created and have values
+if y > x
+	temp = x  // create a temporary variable to hold the value of x, so we don't lose it while swapping
+	x = y
+	y = temp
+
+// exercise 4
+number = 1
+while number <= 50
+	if number % 2 equals 0 // check if number is even
+		print number
+	
+	number = number + 1
+		
+// exercise 4 - another way
+number = 2
+while number <= 50
+	print number
+	number = number + 2 // move to the next even number
+	
+// exercise 5
+for number=1...50
+	if number % 2 equals 0 // check if number is even
+		print number
+		
+// exercise 6 - while loop version
+number = 4
+while number <= 40
+	if number % 2 equals 1 // check if number is odd
+		print number
+		
+	number = number + 1
+	
+// exercise 6 - for loop version
+for number=4...40
+		if number % 2 equals 1 // check if number is odd
+			print number
+			
+// exercise 7 (challange problem)
+
+// these variables will keep track of the past two Fibonacci terms, so we can use them as we go along
+num1 = 1
+num2 = 1
+
+// they also happen to be the first two terms of the sequence
+print num1
+print num2
+
+// we can start our loop at 3, since we already printed out the first two terms
+for i=3...50
+	
+	// calculate and print the next Fibonacci term
+	nextNum = num1 + num2
+	print nextNum
+	
+	// update these variables before the next loop iteration
+	num1 = num2
+	num2 = nextNum
+
