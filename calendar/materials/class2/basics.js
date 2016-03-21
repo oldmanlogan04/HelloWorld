@@ -26,7 +26,9 @@ while (numberToPrint <= 100) {
 	numberToPrint = numberToPrint + 1;
 }
 
+
 // using a for loop
+// for numberToPrint=1...100 
 for (var numberToPrint = 1; numberToPrint <= 100; numberToPrint++) { 
 	console.log(numberToPrint); 
 }

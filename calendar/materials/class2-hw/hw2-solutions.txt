@@ -4,6 +4,7 @@ alex = 100
 alex = alex - 8
 alex = alex + 50
 joe = 200
+alex = alex - 20
 molly = 20
 molly = molly - 10
 joe = joe - 10
@@ -16,7 +17,7 @@ sum = alex + joe + molly
 print sum
 
 // exercise 2
-if alex > 125
+if alex >= 125
 	print "Alex can see Springsteen!"
 else
 	print "Alex can't go to the Springsteen show:("
