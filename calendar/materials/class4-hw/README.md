@@ -10,7 +10,7 @@ You'll need to download the project files, and work on your computer in an edito
 
 Once you've got your files set up, and have poked around a bit, take a stab at at least one of the projects at the bottom of the [project page](https://github.com/chrisbay/virtual-led-wall). To get started, I recommend trying Random or Vertical.
 
-You'll want to use Chrome developer tools, so check out a [tutorial](https://www.youtube.com/watch?v=nV9PLPFTnkE) or [two](https://www.udemy.com/how-to-use-chrome-developer-tools/) to get more comfortable.
+You'll want to use Chrome developer tools, so check out a [tutorial](https://www.youtube.com/watch?v=nV9PLPFTnkE&list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya) or two to get more comfortable.
 
 ## Next steps
 
