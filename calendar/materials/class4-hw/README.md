@@ -12,6 +12,8 @@ Once you've got your files set up, and have poked around a bit, take a stab at a
 
 You'll want to use Chrome developer tools, so check out a [tutorial](https://www.youtube.com/watch?v=nV9PLPFTnkE&list=PLfdtiltiRHWEQ6wtGVC57qrlRtQPyylya) or two to get more comfortable.
 
+[Project files (ZIP file)](https://github.com/chrisbay/virtual-led-wall/archive/master.zip)
+
 ## Next steps
 
 Congratulations! You've completed Hello, World!
