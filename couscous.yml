@@ -9,7 +9,7 @@ baseUrl: http://education.launchcode.org/HelloWorld
 
 # Used to link to the GitHub project
 github:
-    user: LaunchCodeEducation 
+    user: LaunchCodeEducation
     repo: HelloWorld
 
 title: LaunchCode's Hello, World!
@@ -18,10 +18,14 @@ title: LaunchCode's Hello, World!
 menu:
     items:
         calendar:
-            text: Calendar 
+            text: Calendar
             # You can use relative urls
             relativeUrl: calendar/
         piazza:
             text: Piazza
             absoluteUrl: https://piazza.com/class/ilb1z53waix4h4
+            attributes: target="_blank"
+        codecademy:
+            text: Codecademy
+            absoluteUrl: https://www.codecademy.com
             attributes: target="_blank"
