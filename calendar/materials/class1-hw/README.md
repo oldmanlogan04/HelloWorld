@@ -5,7 +5,7 @@ Before getting started, make sure you can access Piazza using the link on the le
 
 ### Sign up for Piazza
 
-Visit the [course signup page](piazza.com/launchcode/summer2016/lc101). Enter the access code `lc101` on the enrollment screen. If you don't have a Piazza account, you will be prompted to sign up for one after submitting your course enrollment.
+Visit the [course signup page](https://piazza.com/launchcode/summer2016/lc101). Enter the access code `lc101` on the enrollment screen. If you don't have a Piazza account, you will be prompted to sign up for one after submitting your course enrollment.
 
 Piazza is a course communication platform that we will use for course announcements, and as a way for students to post questions and solutions online. It is used for all LaunchCode courses.
 
