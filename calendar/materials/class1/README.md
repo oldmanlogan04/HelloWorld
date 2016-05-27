@@ -5,6 +5,9 @@
 1. Rewatch the <a href="https://youtu.be/_Vn8ojSOt6I" target="_blank">video from Class 1 here! </a>
 2. For reference, you can also view the [slides here](slides.pdf).
 
+#### Code samples
+[Hello, World! example](http://jsbin.com/nulozub/2/edit?js,output)
+
 *Note*: Slides, audio, and video have the video and audio segments removed due to copyright issues. Hence, I've linked those below.
 
 ---
