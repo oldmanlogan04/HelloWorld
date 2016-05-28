@@ -6,7 +6,7 @@
 2. For reference, you can also view the [slides here](slides.pdf).
 
 #### Code samples
-[Hello, World! example](http://jsbin.com/nulozub/2/edit?js,output)
+[Hello, World! example (JS Bin)](http://jsbin.com/nulozub/2/edit?js,output)
 
 *Note*: Slides, audio, and video have the video and audio segments removed due to copyright issues. Hence, I've linked those below.
 
@@ -16,6 +16,4 @@
 
 * <a href="https://www.youtube.com/watch?v=dU1xS07N-FA" target="_blank">"Code Stars" by code.org</a>
 * <a href="http://www.marketplace.org/2015/02/20/tech/big-book/we-have-some-catching-do-cyber-security" target="_blank">Interview with Marc Goodman on Marketplace</a>
-* "What is Code?" by Bloomberg Businessweek:
-  * <a href="https://vimeo.com/13098743" target="_blank">video</a>
-  * <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/" target="_blank">article</a>
+* "What is Code?" by Bloomberg Businessweek: <a href="https://vimeo.com/130987431" target="_blank">video</a> | <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/" target="_blank">article</a>
