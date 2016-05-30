@@ -6,6 +6,6 @@
 2. For reference, you can also view the [slides here](slides.pdf).
 
 #### Code samples
-[Functions (JS Bin)](http://jsbin.com/jiboku/edit?js,console)
-[Conditionals (JS Bin)](http://jsbin.com/cejila/edit?js,console)
-[In-class exercise (JS Bin)](http://jsbin.com/munoga/edit?js,console)
+* [Functions (JS Bin)](http://jsbin.com/jiboku/edit?js,console)
+* [Conditionals (JS Bin)](http://jsbin.com/cejila/edit?js,console)
+* [In-class exercise (JS Bin)](http://jsbin.com/munoga/edit?js,console)
